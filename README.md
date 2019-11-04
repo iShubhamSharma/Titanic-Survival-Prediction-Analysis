@@ -2,4 +2,4 @@
 
 # Logistic regression in Tableau using R
 
-![](Logistic Regression.png)
+![](Logistic%20Regression.png)
